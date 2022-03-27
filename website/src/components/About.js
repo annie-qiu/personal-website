@@ -4,7 +4,7 @@ class About extends Component {
     render() {
         return (
             <div>
-                <h1>Hello,</h1>
+                <h1>Hi! <span>&#127793;</span></h1>
                 <p>
                 I'm Annie, a ‘24 at Dartmouth College studying Computer Science with a minor in Studio Art. 
                 As a visual artist, designer, and computer science student, my passions lie in the intersection of design and technology. 
